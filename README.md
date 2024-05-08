@@ -27,7 +27,13 @@ Exam Registration System is used in the effective registration of exams to all o
 <div align="center">
 
 
+![image](https://github.com/ROHITJAIND/UML-EX-06-ONLINE-EXAMINATION-SYSTEM/assets/118707073/26ff7c16-9e11-4df4-80ca-d507cc427e7b)
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### COMMUNICATION DIAGRAM:
 <div align="center">
@@ -38,6 +44,7 @@ Exam Registration System is used in the effective registration of exams to all o
 #### ACTIVITY DIAGRAM:
 <div align="center">
 
+![image](https://github.com/ROHITJAIND/UML-EX-06-ONLINE-EXAMINATION-SYSTEM/assets/118707073/3d226c15-a803-4f2f-ae91-cadf02425459)
 
 </div>
 
